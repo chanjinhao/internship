@@ -1,5 +1,4 @@
 Internship Project
-
 ---
 
 # Overview
@@ -41,7 +40,7 @@ Languages that you should not pick:
 
 A few ideas for languages are:
 1. Rust
-2. NIM
+2. nim
 
 ## 2. Constructing the Artifacts
 
@@ -61,14 +60,18 @@ Suggested functions are:
 
 Do add in additional features you see fit. Remember, the features must be common across all the FTP servers (i.e. don't implement something that can only be done in one language, but not the rest)
 
+### 2.1 Easter egg planting!
+
+While you are constructing your program, we would like you guys to plant some easter eggs into them! Hidden functions that will be called under very abnormal and obscure circumstances (e.g. failing authentication 42 times will throw log you in automatically)
+
+This sets up work for the next intern, who will be doing malware analysis and reverse engineering to find the easter eggs.
+
 ## 3. Comparing the Artifacts (Bonus Credits)
 
 If you've made it this far, congratulations! Its no easy feat for the tasks above in such a short period of time.
 
 Now that we have the programs built up, we need to start comparing them.
 
-Comparison can be done in two ways:
-1. Static Analysis
-2. Dynamic Analysis
+We'll compare the programs using Static Analysis. An exmaple program to do this is `bindiff` which finds out similarities between the programs.
 
-## what programs do you suggest?
+This area of work touches a the tip of the iceberg of reverse engineering, which you are welcome to read into!
