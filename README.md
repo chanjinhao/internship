@@ -22,12 +22,12 @@ After building the FTPs in different languages, we compare them to find similari
 
 Each of the phases will be explained in detail below
 
-# 0. Setting up the environment
+## 0. Setting up the environment
 This is set as 0 because it's not really related to the experiement.
 
 We would prefer you to use Linux for development, and some form of version control for your code to be stored. Github is one form of version control, which you are recommended to use. Don't dwell too much time on this part. Get it up and running and get your hands dirty!
 
-# Choosing Languages
+## 1. Choosing Languages
 
 Your first phase will be to pick at least 3 languages for comparison. If you can find more, then its perfect, as long as they meet the constrains set below.
 
@@ -43,7 +43,7 @@ A few ideas for languages are:
 1. Rust
 2. NIM
 
-# Constructing the Artifacts
+## 2. Constructing the Artifacts
 
 After choosing your languages, its time to build your program.
 
@@ -61,7 +61,7 @@ Suggested functions are:
 
 Do add in additional features you see fit. Remember, the features must be common across all the FTP servers (i.e. don't implement something that can only be done in one language, but not the rest)
 
-# Comparing the Artifacts (Bonus Credits)
+## 3. Comparing the Artifacts (Bonus Credits)
 
 If you've made it this far, congratulations! Its no easy feat for the tasks above in such a short period of time.
 
