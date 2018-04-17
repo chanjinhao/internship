@@ -31,7 +31,7 @@ We would prefer you to use Linux for development, and some form of version contr
 
 Your first phase will be to pick at least 3 languages for comparison. If you can find more, then its perfect, as long as they meet the constrains set below.
 
-The language choice must be actively maintained, and "popular". "Popular" isnt concretely defined, and a metric now is how many stars it has on github/gitlab. See (Rust)[https://github.com/rust-lang/rust] for an example of an "popular" program.
+The language choice must be actively maintained, and "popular". "Popular" isnt concretely defined, and a metric now is how many stars it has on github/gitlab. See [Rust](https://github.com/rust-lang/rust) for an example of an "popular" program.
 
 It also has to be actively maintained because we want a language that survives, as the language chosen will be used in the long run.
 
