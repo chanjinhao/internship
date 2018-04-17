@@ -58,7 +58,9 @@ Suggested functions are:
 3. File Download
 4. Permission Checking
 
-Do add in additional features you see fit. Remember, the features must be common across all the FTP servers (i.e. don't implement something that can only be done in one language, but not the rest)
+We are using (vsftpd)[https://security.appspot.com/vsftpd.html] as a baseline comparison, hence all your functions that work on the FTP servers should be a subset of the functions in vsftpd.
+
+Do add in additional features you see fit. Remember, the features must be common across all the FTP servers and must work on vsftpd(Don't implement something that can only be done in one language, but not the rest. Dont implement something not in vsftpd)
 
 ### 2.1 Easter egg planting!
 
